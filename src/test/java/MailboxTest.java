@@ -4,7 +4,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
 
 /**
- * Created by jojonari on 2017. 5. 22..
+ * Assert First
  */
 public class MailboxTest {
     @Test
